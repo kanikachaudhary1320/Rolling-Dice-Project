@@ -1,0 +1,73 @@
+
+body {
+  background-image: url("images/dicebg1.jpg");
+  text-align: center;
+  background-color: #f7786b;
+  background-size: 1400px 700px;
+  
+}
+h1 {
+    text-align: center;
+    color:#fff;
+    font-family: 'Sacramento', cursive;
+    padding-top:50px;
+    padding-bottom:100px;
+   
+
+}
+div {
+    font-family: "Montserrat";  
+    
+}
+#heading {
+  font-size:4rem;
+}
+a {
+  padding-left:581px;
+}
+.ip {
+  margin-left:500px;
+  border: 2px solid rgb(150, 199, 133);
+  border-radius: 8px;
+  width:20%;
+  margin-bottom:20px;
+  padding:5px;
+}
+input:focus
+{
+    border: 2px solid #57a80a;
+    box-shadow: 0 0 3px #57a80a;
+    outline-offset: 0px;
+    outline: none;
+}
+#two {
+  margin-bottom:40px;
+}
+
+.btn {
+  background: #8ba80a;
+  background-image: -webkit-linear-gradient(top, #5da00b, #68ba25);
+  background-image: -moz-linear-gradient(top, #5da00b, #68ba25);
+  background-image: -ms-linear-gradient(top, #5da00b, #68ba25);
+  background-image: -o-linear-gradient(top, #5da00b, #68ba25);
+  background-image: linear-gradient(to bottom, #5da00b, #68ba25);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 15px 10px 15px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #66a317;
+  background-image: -webkit-linear-gradient(top, #414d03, #247405);
+  background-image: -moz-linear-gradient(top,#414d03,#247405);
+  background-image: -ms-linear-gradient(top,#414d03,#247405);
+  background-image: -o-linear-gradient(top,#414d03,#247405);
+  background-image: linear-gradient(to bottom,#414d03,#247405);
+  text-decoration: none;
+}
+
